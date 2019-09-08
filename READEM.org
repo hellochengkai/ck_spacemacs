@@ -1,3 +1,0 @@
-* 开始之前
-** 创建~/.spacemacs.d/目录，并将 ~/.spacemacs copy 到这个目录
-** 或者直接clone 这个仓库. git clone git@github.com:hellochengkai/ck_spacemacs.git ~/.spacemacs.d
