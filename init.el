@@ -206,7 +206,7 @@
 
     ;; Default font or prioritized list of fonts.
     dotspacemacs-default-font '("Source Code Pro"
-				:size 10.0
+				:size 14.0
 				:weight normal
 				:width normal)
 
@@ -451,7 +451,7 @@
   configuration.
   It is mostly for variables that should be set before packages are loaded.
   If you are unsure, try setting them in `dotspacemacs/user-config' first."
-  (setq configuration-layer--elpa-archives
+  (setq configuration-layer-elpa-archives
 	'(("melpa-cn" . "http://elpa.emacs-china.org/melpa/")
 	  ("org-cn"   . "http://elpa.emacs-china.org/org/")
 	  ("gnu-cn"   . "http://elpa.emacs-china.org/gnu/")))
